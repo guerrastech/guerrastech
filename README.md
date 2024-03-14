@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="[https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd](https://guerrastech.github.io/bannner-guerra-desenvolvedor/Guerra%20Desenvolvedor.png)" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Olá! 👋 Meu nome é Gabriel Guerra e sou um entusiasta da tecnologia apaixonado por criar experiências incríveis na web. Sou especializado em desenvolvimento Front-end, mas minha curiosidade me leva a explorar outras áreas, como back-end e desenvolvimento de software em geral.</p>&nbsp;
