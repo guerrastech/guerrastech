@@ -5,8 +5,8 @@
 <p align="center">Olá! 👋 Meu nome é Gabriel Guerra e sou um entusiasta da tecnologia apaixonado por criar experiências incríveis na web. Sou especializado em desenvolvimento Front-end, mas minha curiosidade me leva a explorar outras áreas, como back-end e desenvolvimento de software em geral.</p>&nbsp;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhYllipepdm&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="180px" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhYllipepdm&layout=compact&theme=dracula" alt="Top Langs" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=guerrastech&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="180px" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guerrastech&layout=compact&theme=dracula" alt="Top Langs" height="180px">
 </p>
  
  &nbsp;
