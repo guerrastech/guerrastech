@@ -4,10 +4,10 @@
 
 <p align="center">Olá! 👋 Meu nome é Gabriel Guerra e sou um entusiasta da tecnologia apaixonado por criar experiências incríveis na web. Sou especializado em desenvolvimento Front-end, mas minha curiosidade me leva a explorar outras áreas, como back-end e desenvolvimento de software em geral.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=guerrastech&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=guerrastech&show_icons=true&theme=radical&layout=compact" />
- </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhYllipepdm&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="180px" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhYllipepdm&layout=compact&theme=dracula" alt="Top Langs" height="180px">
+</p>
  
  &nbsp;
  &nbsp;
