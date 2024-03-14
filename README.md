@@ -5,8 +5,8 @@
 <p align="center">Olá! 👋 Meu nome é Gabriel Guerra e sou um entusiasta da tecnologia apaixonado por criar experiências incríveis na web. Sou especializado em desenvolvimento Front-end, mas minha curiosidade me leva a explorar outras áreas, como back-end e desenvolvimento de software em geral.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=guerrastech&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=guerrastech&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
